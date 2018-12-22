@@ -29,7 +29,7 @@ Code example, the cache instance name is 'getName', and the duration time is 30m
 1. Download source code
 
 ```
-git clone https://github.com/Andy-Gong/kafka-metrics.git
+git clone https://github.com/Andy-Gong/spring-aspect-cache.git
 ```
 
 2. Run with source code
